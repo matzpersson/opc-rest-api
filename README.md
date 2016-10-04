@@ -1,4 +1,4 @@
-# opc-rest-api
+# OPC Rest Api
 Python Rest API using OpenOPC to provide direct API access for any OS platform. This proxy has to be installed on a Windows box with Python and OpenOPC installed to provide a API Gateway to other platforms.
 
 # Dependencies
